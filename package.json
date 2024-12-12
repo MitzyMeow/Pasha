@@ -1,0 +1,21 @@
+{
+  "name": "availablemaliciouspackages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "This list is automatically created by Checkmarx"
+  },
+  "author": "Leon Maister",
+  "dependencies": {
+    "@wf-ceo/react-test-helpers": "67.6.7",
+    "@wf-ceo/utilities": "67.6.7",
+    "keycloak-server": "0.0.3",
+    "com.unity.collections": "6.3.1",
+    "com.unity.entities": "7.1.2",
+    "dhp-logging-lib": "7.2.7",
+    "orbit-playroom": "0.0.1",
+    "weekendfe": "0.0.2"
+  },
+  "license": "ISC"
+}
